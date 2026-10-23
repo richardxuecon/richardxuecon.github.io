@@ -56,7 +56,7 @@ Replace `assets/images/headshot.png` with your preferred portrait. If changing t
 
 ## Update the CV
 
-Replace `assets/cv/Richard_Xu_CV.pdf` with your updated public academic CV. Keep the filename to preserve both links. Check that the CV uses the correct expected completion date and contains only contact information you wish to publish. The included public copy is derived from the actual supplied CV, with personal contact/address/citizenship lines removed and the Ph.D. date updated to the December 2027 date in your brief. Your original source file is unchanged.
+Replace `assets/cv/Richard_Xu_CV.pdf` with your updated public academic CV. Keep the filename to preserve both links. Check that the CV uses the correct expected completion date and contains only contact information you wish to publish. The included public copy is derived from the actual supplied CV, with personal contact/address/citizenship lines removed and expected Ph.D. completion set to May 2027, per the latest request. In the CV's references, Ben Williams (Associate Professor, Department of Economics, George Washington University; bdwilliams@gwu.edu) replaces Tara M. Sinclair. Your original source file is unchanged.
 
 ## Add papers, slides, or statements
 
@@ -70,7 +70,7 @@ Use the same approach for slides, replication materials, a teaching statement, o
 
 ## Edit academic content
 
-Edit the readable HTML in `index.html`. Research, publications, teaching, experience, education, CV, references, and contact have named section IDs. Keep headings in order and distinguish working papers, proposals, conference acceptances, and journal publications. Use `cv-paper-blurbs.md` for concise summaries beneath paper titles in a future CV. Design colors, type, and spacing are in `styles.css`.
+Edit the readable HTML in `index.html`. Research, publications, teaching, experience, education, CV, and contact have named section IDs. The webpage omits Nationwide and academic references at the owner's request; the downloadable CV retains its employment history and reference section. Keep headings in order and distinguish working papers, proposals, conference acceptances, and journal publications. Use `cv-paper-blurbs.md` for concise summaries beneath paper titles in a future CV. Design colors, type, and spacing are in `styles.css`.
 
 After edits, check desktop and mobile layouts, open each document link, and verify titles, dates, and statuses against your academic CV. Update the footer year and job-market season when appropriate. See `CONTENT_NOTES.md` for source discrepancies and verification details.
 
